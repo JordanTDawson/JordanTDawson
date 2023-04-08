@@ -1,4 +1,3 @@
-
 ![Header](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/header.gif)
 
 <!-- Introduction -->
