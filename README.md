@@ -1,3 +1,7 @@
+<div id="header" align="center"> 
+  <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611o35h3lvvv9d1zp701grgck95xvmassznqtc43drj&rid=giphy.gif&ct=g">
+</div>
+
 # Hi there, I'm Jordan Dawson 👋
 
 I'm a Front End Web Dveloper based in Orange, California. 
