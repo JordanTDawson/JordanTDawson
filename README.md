@@ -25,7 +25,7 @@ I'm a Full Stack Developer based in Southern California.
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/expressjs/express/blob/master/docs/images/logo.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40" /> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/express-2-458175.png" title="ExpressJS" alt="ExpressJS" width="40" height="40" /> 
 </div>
 
 ### My GitHub Stats!
