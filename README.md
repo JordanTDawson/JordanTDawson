@@ -1,51 +1,19 @@
-![Header](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/header.gif)
+# Hi there, I'm Jordan Dawson 👋
 
-<!-- Introduction -->
-# Hi there 👋, I'm [Your Name]
+I'm a Front End Web Dveloper based in Orange, California. 
 
-[Your Profession] with [Number] years of experience in [Your Industry]. Passionate about [Your Key Skills] and [Your Hobbies or Interests related to your profession].
+- 🔭 I’m currently working on [Your Current Project/Company]
+- 🌱 I’m currently learning [Your Current Focus/Learning Goals]
+- 👯 I’m looking to collaborate on [Your Collaboration Interests]
+- 💬 Ask me about [Your Areas of Expertise/Interest]
+- 📫 How to reach me: [Your Contact Information]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Your Fun Fact]
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2e3d55?style=flat-square&logo=google-chrome&logoColor=white)]([Your Portfolio URL])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([Your LinkedIn URL])
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)]([Your Twitter URL])
+### My GitHub Stats
 
-<!-- Skills -->
-## Skills
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordanTDawson&show_icons=true)](https://github.com/JordanTDawson)
 
-![Skills](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/skills.gif)
+### Languages and Tools
 
-- [Your Skill 1]
-- [Your Skill 2]
-- [Your Skill 3]
-- [Your Skill 4]
-- [Your Skill 5]
-
-<!-- Projects -->
-## Projects
-
-![Projects](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/projects.gif)
-
-### [Project Name 1]
-
-[Description of the project and your role in it. Include any relevant links or images.]
-
-![Project 1](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/project1.gif)
-
-### [Project Name 2]
-
-[Description of the project and your role in it. Include any relevant links or images.]
-
-![Project 2](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/project2.gif)
-
-### [Project Name 3]
-
-[Description of the project and your role in it. Include any relevant links or images.]
-
-![Project 3](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/project3.gif)
-
-<!-- Education -->
-## Education
-
-![Education](https://raw.githubusercontent.com/<username>/<repo-name>/master/assets/education.gif)
-
-- [Degree] in [Major] from [University], [Graduation Date]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanTDawson&layout=compact)](https://github.com/JordanTDawson)
