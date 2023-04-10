@@ -8,7 +8,7 @@ I'm a Full Stack Developer based in Southern California.
 
 - 🔭 Practicing algo's and finishing up my first full stack application.
 - 🌱 Always wanting to learn. 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/jordantdawson/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- 📫 You can reach me through my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordantdawson/)
 
 # My Languages
 
