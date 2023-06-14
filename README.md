@@ -30,6 +30,6 @@ I'm a Full Stack Developer based in Southern California.
 
 ### My GitHub Stats!
 
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=joseph-w-valdez&theme=light&background=000000)](https://git.io/streak-stats)
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JordanTDawson&theme=light&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanTDawson&layout=compact)](https://github.com/JordanTDawson)
