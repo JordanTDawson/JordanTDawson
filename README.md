@@ -6,7 +6,7 @@
 
 I'm a Full Stack Developer based in Southern California. 
 
-- 🔭 Practicing algo's and finishing up my first full stack application.
+- 🔭 Working on Portflio and Olive Garden FanPage group project.
 - 🌱 Always wanting to learn. 
 - 📫 You can reach me through my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordantdawson/)
 
