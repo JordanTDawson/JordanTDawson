@@ -4,9 +4,9 @@
 
 # Hi there, I'm Jordan Dawson 👋
 
-I'm a Full Stack Developer based in Southern California. 
+I'm a Front-End Software Engineer based in Southern California. 
 
-- 🔭 Working on Portflio and Olive Garden FanPage group project.
+- 🔭 Working on Detailing Website and Olive Garden FanPage group project.
 - 🌱 Always wanting to learn. 
 - 📫 You can reach me through my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jordantdawson/)
 
